@@ -1,0 +1,11 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+build/
+pubspec.lock
+
+# IDE directories
+.idea/
+.vscode/
+
+# Misc
+.DS_Store
